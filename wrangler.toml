@@ -1,0 +1,14 @@
+name = "codesandbox-multistep-form"
+type = "webpack"
+route = ""
+zone_id = "37217193ddfbda8e9e70f627da04042a"
+account_id = "4af5db5d214aef0514ac5b2b41632825"
+usage_model = ""
+compatibility_flags = []
+workers_dev = true
+compatibility_date = "2022-03-30"
+webpack_config = "webpack.config.js"
+
+[site]
+bucket = "dist"
+entry-point = "./src"
